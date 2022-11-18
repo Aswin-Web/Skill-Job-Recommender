@@ -16,7 +16,7 @@ Role:
 Features:-
 
 *.Used JWT for authentication (TOKEN in cookie)
-
+  
 *.Used IBM_db For database(mysql)
 
 *.Used bootstrap for styling
